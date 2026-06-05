@@ -5,5 +5,5 @@
 Pembagian Tugas:
 1. Ahmad Wildan Ahsani (21060125140193)  : kode soal A
 2. Kafka Cahya Ramadhan (21060125140157): Infografis
-3. Yohanes Bernard (
+3. Yohanes Bernard (21060125140153) : Kode soal C
 4. Theofilus Gesang (21060125130096): Kode soal B
